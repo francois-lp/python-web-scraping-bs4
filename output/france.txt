@@ -1,0 +1,1 @@
+{'name': 'France', 'national_day': '14 Juillet', 'bigger_cities': "b'Paris,Lyon,Marseille'", 'code_iso': 'FRA, FR', 'internet_domain': '.fr'}
