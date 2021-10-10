@@ -16,8 +16,8 @@ __Project__
 
 __Dependencies__
 ```
-	pip install requests
-	pip install beautifulsoup4
+    pip install requests
+    pip install beautifulsoup4
 ```
 
 ## Getting started
